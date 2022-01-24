@@ -1,0 +1,338 @@
+--The Fallen Kingdom
+local s = Instance.new("Sound")
+
+s.Name = "Sound"
+s.SoundId = "http://www.roblox.com/asset/?id=3743448261"
+s.Volume = 100
+s.Looped = true
+s.archivable = false
+
+s.Parent = game.Workspace
+
+wait(3)
+
+s:play()
+
+local args = {
+    [1] = "I used to rule the world",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Chunks would load when I gave the word",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Now every night I go stow away",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Hide from the mobs I used to slay",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "They once were terrified",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "Every time I looked into their eyes",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Villagers would cheer my way",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "For a hero I was, that's what they'd say",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "One minute we had it all",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Next our world began to fall",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "Away from all that it had once become",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "They all cried for my help, but I stood there numb",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I gaze off into the boundless skylined",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Noteblock choirs playing in the sunshine",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Turn 'round pick up my sword and wield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "The blade that once forced evil mobs to yield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "And hope one day that this chaos and",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Destruction turns for the better",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Never a bow in hand",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "That was when I ruled the land",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "It was the creepers and Skeletons",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Blew down the doors and boxed us in",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Arrows whizzing by like streaks of light",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I tried all that I could to stay and fight",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "As the undead roamed the street",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "Families broken at my feet",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Life itself suspended by a thread",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Oh, why is it that I wasn't dead",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I gaze off into the boundless skyline",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Noteblock choirs playing in the sunshine",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "Turn 'round pick up my sword and wield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "The blade that once forced evil mobs to yield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "If this battle should leave me slain",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I know Herobrine will call my name",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Better to take a stand",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "That was when I ruled the land",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I gaze off into the boundless skyline",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Noteblock choirs playing in the sunshine",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Turn 'round pick up my sword and wield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "The blade that once forced evil mobs to yield",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
+
+local args = {
+    [1] = "If this battle should leave me slain",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "I know Herobrine will call my name",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "Better to take a stand",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+local args = {
+    [1] = "That was when I ruled the land",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
